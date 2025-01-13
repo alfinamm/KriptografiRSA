@@ -1,0 +1,31 @@
+body {
+	background-color: #f0f0f0; /* Latar belakang */
+	display: flex; /* Flexbox untuk memusatkan */
+	justify-content: center; /* Memusatkan secara horizontal */
+	align-items: center; /* Memusatkan secara vertikal */
+	height: 100vh; /* Tinggi penuh layar */
+	margin: 0; /* Menghapus margin default */
+}
+
+.form {
+	width: 400px; /* Lebar form */
+	padding: 20px; /* Ruang di dalam form */
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan halus */
+	background-color: #fff; /* Latar belakang form putih */
+	border-radius: 8px; /* Sudut melengkung */
+	text-align: center; /* Memusatkan teks di dalam form */
+}
+
+
+
+.forms {
+	margin-top: 20px;
+}
+
+td:first-child {
+	color: #777;
+}
+
+td {
+	vertical-align: top;
+}
